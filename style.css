@@ -3,3 +3,27 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.header {
+  height: 400px;
+  width: 100%;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.header-text {
+  padding: 20px 0 0 20px;
+}
+
+.main-content {
+  width: 840px;
+  margin: 50px auto 0 auto;
+}
+
+.content-box {
+  width: 100%;
+  padding-bottom: 30px;
+  border-bottom: 1px solid gray;
+  margin-bottom: 30px;
+}
